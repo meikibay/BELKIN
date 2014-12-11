@@ -136,3 +136,8 @@ p{
 	float: left;
 	position: relative;
 }
+
+.social{
+	width: 18%;
+	height: 125px;
+}
