@@ -16,3 +16,16 @@ div{
 a{
 	text-decoration: none;
 }
+
+li{
+	list-style: none none;
+	float: left;
+	padding: 0;
+	margin-left: 5%;
+	display: block;
+}
+
+.logo{
+	float: left;
+
+}
